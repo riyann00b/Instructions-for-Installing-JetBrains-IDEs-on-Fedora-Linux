@@ -120,5 +120,5 @@ Want quick access from your desktop? Create shortcuts! 🚀
 
 🎉 **And that’s it!** You’re ready to code like a rockstar on Fedora Linux. Enjoy your JetBrains IDEs! 🌈✨
 
-![Happy Coding GIF](https://media.giphy.com/media/3o6gE5cVqXvP6UzUuA/giphy.gif)
+![Happy Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZzank1a3Vqbzlvb3ptajZyeXR6YzJ2d2YwY24wcXY4YjVsdXB6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4LPxINAIcA72lohDYE/giphy.gif)
 
